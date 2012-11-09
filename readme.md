@@ -9,7 +9,7 @@ Gravity when cropping is needed.
 
 # Filename Format
 
-Files stored as *converted_800x600_Center_GoldenGateBridge-001.jpg* or *converted_800x100_Center_GoldenGateBridge-001.jpg* where firt parameter is width and second is height.
+Files beign stored as *converted_800x600_Center_GoldenGateBridge-001.jpg* or *converted_800x100_Center_GoldenGateBridge-001.jpg* where first parameter is width and the second one is height.
 
 # Testing Links
 
