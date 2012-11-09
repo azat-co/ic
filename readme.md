@@ -1,10 +1,11 @@
 # Additional Option
 
+Gravity when cropping is needed.
+
 	?g=Center
 	?g=North
 	...
 
-for gravity when cropping is needed.
 
 # Filename Format
 
