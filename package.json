@@ -1,0 +1,21 @@
+{
+	"name": "stofify-image",
+	"version": "0.0.1",
+	"private": true,
+	"main": "server",
+	"scripts": {
+		"start": "node server"
+	},
+	"dependencies": {
+		"express": ">=2.2.0",
+		"jade": "*",
+		"imagemagick": "0.1.3"
+	},
+	"devDependencies":{
+		"mocha": "",
+		"superagent":""
+	},
+	"engines": {
+	  "node": "0.8"
+	}
+}
